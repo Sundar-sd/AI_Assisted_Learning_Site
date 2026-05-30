@@ -70,7 +70,7 @@ AI_Assisted_Learning_Site/
 Before you begin, ensure you have the following installed:
 - **Node.js** (v14.0.0 or higher)
 - **npm** (v6.0.0 or higher) or **yarn**
-- **Git** (for version control)
+- **Git** (for version control).
 
 ## 🚀 Installation
 
